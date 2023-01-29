@@ -1,3 +1,5 @@
 hello world
 well recieved
 create new docs
+successfully installed ssh rsa with the help of the following link
+https://stackoverflow.com/questions/34731832/log-in-to-github-from-the-command-line-with-multiple-accounts
